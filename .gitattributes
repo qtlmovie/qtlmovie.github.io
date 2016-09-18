@@ -1,0 +1,11 @@
+*.html  text eol=lf
+*.icns  binary
+*.ico   binary
+*.jpg   binary
+*.md    text
+*.png   binary
+*.ttf   binary
+*.txt   text
+*.wav   binary
+*.woff   binary
+*.woff2  binary
